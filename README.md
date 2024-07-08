@@ -15,10 +15,15 @@ The novelty of this project lies in its innovative integration of Robotic Proces
 # Results
 The mobile application was designed to be user-friendly and efficient. Below are screenshots illustrating the key features of the app:
 Invoice Capture: This screen allows users to capture images of invoices quickly and accurately.
+
 ![image](https://github.com/maheensohail1/InvoiceProcessing/assets/54958875/c2907a54-b772-458c-988b-e9f226de5897)
+
 Processed Invoice Display: After processing, detailed invoice information is displayed, providing immediate access to validated data.
+
 ![image](https://github.com/maheensohail1/InvoiceProcessing/assets/54958875/5aff3d2f-3fb9-4769-8982-9be5338e3f3f)
+
 Invoice Line Items Display: A detailed view of the invoice line items are also displayed.
+
 ![image](https://github.com/maheensohail1/InvoiceProcessing/assets/54958875/b6eed505-10d7-4a5d-964d-376c31ca3339)
 
 
